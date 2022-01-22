@@ -1,0 +1,4 @@
+baseURL = 'http://notes.zootechs.com/'
+languageCode = 'en-us'
+title = 'Coding Journey'
+theme = "congo"
